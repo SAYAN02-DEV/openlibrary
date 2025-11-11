@@ -1,4 +1,4 @@
-# GitHub Project Management Scripts
+git merge# GitHub Project Management Scripts
 
 This directory contains scripts that the Open Library team uses to interact with this GitHub repository.
 
